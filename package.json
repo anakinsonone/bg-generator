@@ -1,0 +1,19 @@
+{
+  "name": "bg-generator",
+  "version": "1.0.0",
+  "description": "Simple background generator using linear gradient\r with the help of a bit of css and js.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anakinsonone/bg-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anakinsonone/bg-generator/issues"
+  },
+  "homepage": "https://github.com/anakinsonone/bg-generator#readme"
+}
