@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anakinsonone/bg-generator/issues"
   },
-  "homepage": "https://github.com/anakinsonone/bg-generator#readme"
+  "homepage": "https://github.com/anakinsonone/bg-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
