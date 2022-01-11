@@ -4,7 +4,7 @@
   "description": "Simple background generator using linear gradient\r with the help of a bit of css and js.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "browserify script.js > bundle.js && live-server"
   },
   "repository": {
     "type": "git",
